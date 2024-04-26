@@ -6,6 +6,8 @@ public class Test {
 
     int aa;
 
+    int bbb;
+    int rrrr;
     int ccccc;
     int eee;
 }
